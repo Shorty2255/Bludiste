@@ -1,0 +1,6 @@
+c:\users\shorty\documents\visual studio 2015\Projects\Bludiste\Bludiste\bin\Release\Bludiste.exe.config
+c:\users\shorty\documents\visual studio 2015\Projects\Bludiste\Bludiste\bin\Release\Bludiste.exe
+c:\users\shorty\documents\visual studio 2015\Projects\Bludiste\Bludiste\bin\Release\Bludiste.pdb
+c:\users\shorty\documents\visual studio 2015\Projects\Bludiste\Bludiste\obj\Release\Bludiste.exe
+c:\users\shorty\documents\visual studio 2015\Projects\Bludiste\Bludiste\obj\Release\Bludiste.pdb
+C:\Users\Shorty\Documents\Visual Studio 2015\Projects\Bludiste\Bludiste\obj\Release\Bludiste.csprojResolveAssemblyReference.cache
